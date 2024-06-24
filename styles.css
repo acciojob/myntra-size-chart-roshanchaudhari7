@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+table {
+	border-collapse: collapse;
+}
+
+th, td {
+	border: 1px solid #050404;
+	min-width: 100px;
+	background-color: #FC9F9F;
+}
+
+th {
+	text-align: left;
+	background-color: #962812;
+}
+
+.aline-d {
+	text-align: right;
+}
+
+.f-row {
+	color: #FFFFFF;
+}
